@@ -1,0 +1,6 @@
+1. Forest
+2. Savanna
+3. Jungle
+4. Polar Zone
+5. Aquarium
+6. Terrarium

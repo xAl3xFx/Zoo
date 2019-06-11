@@ -1,0 +1,920 @@
+# depslib dependency file v1.0
+1558017782 source:d:\uni\zoo\main.cpp
+	<iostream>
+	<Zoo.h>
+
+1557695414 source:d:\uni\zoo\src\herbivores\herbivorebird.cpp
+	"HerbivoreBird.h"
+
+1557695456 source:d:\uni\zoo\src\herbivores\herbivorefish.cpp
+	"HerbivoreFish.h"
+
+1557695390 source:d:\uni\zoo\src\herbivores\herbivoremammal.cpp
+	"HerbivoreMammal.h"
+
+1557695438 source:d:\uni\zoo\src\herbivores\herbivorereptile.cpp
+	"HerbivoreReptile.h"
+
+1557694896 source:d:\uni\zoo\src\models\animal.cpp
+	"Animal.h"
+
+1557695050 source:d:\uni\zoo\src\models\bird.cpp
+	"Bird.h"
+
+1557695099 source:d:\uni\zoo\src\models\fish.cpp
+	"Fish.h"
+
+1557694832 source:d:\uni\zoo\src\models\herbivore.cpp
+	"Herbivore.h"
+
+1557694943 source:d:\uni\zoo\src\models\mammal.cpp
+	"Mammal.h"
+
+1557694761 source:d:\uni\zoo\src\models\predator.cpp
+	"Predator.h"
+
+1557695077 source:d:\uni\zoo\src\models\reptile.cpp
+	"Reptile.h"
+
+1557695320 source:d:\uni\zoo\src\predators\predatorbird.cpp
+	"PredatorBird.h"
+
+1557695368 source:d:\uni\zoo\src\predators\predatorfish.cpp
+	"PredatorFish.h"
+
+1557695290 source:d:\uni\zoo\src\predators\predatormammal.cpp
+	"PredatorMammal.h"
+
+1557695341 source:d:\uni\zoo\src\predators\predatorreptile.cpp
+	"PredatorReptile.h"
+
+1559852672 source:d:\uni\zoo\src\zoo.cpp
+	"Zoo.h"
+
+1559852568 d:\uni\zoo\include\zoo.h
+	<iostream>
+	<typeinfo>
+	<cwchar>
+	"Utils/CommandDispatcher.h"
+	"Utils/Validator.h"
+	"Cage.h"
+	"Forest.h"
+	"Savanna.h"
+	"Jungle.h"
+	"PolarZone.h"
+	"Aquarium.h"
+	"Terrarium.h"
+	"Warehouse.h"
+
+1557696690 d:\uni\zoo\include\herbivores\herbivorebird.h
+	"Models/Bird.h"
+	"Models/Herbivore.h"
+
+1557696675 d:\uni\zoo\include\models\bird.h
+	"Models/Animal.h"
+
+1557694928 d:\uni\zoo\include\models\animal.h
+
+1557694847 d:\uni\zoo\include\models\herbivore.h
+
+1558216430 source:d:\uni\zoo\src\animals\herbivores\herbivorebird.cpp
+	"Animals/Herbivores/HerbivoreBird.h"
+
+1559851413 d:\uni\zoo\include\animals\herbivores\herbivorebird.h
+	"Animals/Models/Bird.h"
+	"Animals/Models/Herbivore.h"
+
+1559851494 d:\uni\zoo\include\animals\models\bird.h
+	"Animals/Models/Animal.h"
+
+1559852211 d:\uni\zoo\include\animals\models\animal.h
+	<cstring>
+	<iostream>
+	<windows.h>
+	<typeinfo>
+	"Food/Food.h"
+
+1559851464 d:\uni\zoo\include\animals\models\herbivore.h
+
+1558216432 source:d:\uni\zoo\src\animals\herbivores\herbivorefish.cpp
+	"Animals/Herbivores/HerbivoreFish.h"
+
+1559851418 d:\uni\zoo\include\animals\herbivores\herbivorefish.h
+	"Animals/Models/Herbivore.h"
+	"Animals/Models/Fish.h"
+
+1559851516 d:\uni\zoo\include\animals\models\fish.h
+	"Animals/Models/Animal.h"
+
+1558216435 source:d:\uni\zoo\src\animals\herbivores\herbivoremammal.cpp
+	"Animals/Herbivores/HerbivoreMammal.h"
+
+1559851421 d:\uni\zoo\include\animals\herbivores\herbivoremammal.h
+	"Animals/Models/Mammal.h"
+	"Animals/Models/Herbivore.h"
+
+1559851483 d:\uni\zoo\include\animals\models\mammal.h
+	"Animals/Models/Animal.h"
+
+1558216438 source:d:\uni\zoo\src\animals\herbivores\herbivorereptile.cpp
+	"Animals/Herbivores/HerbivoreReptile.h"
+
+1559851368 d:\uni\zoo\include\animals\herbivores\herbivorereptile.h
+	"Animals/Models/Reptile.h"
+	"Animals/Models/Herbivore.h"
+
+1559851539 d:\uni\zoo\include\animals\models\reptile.h
+	"Animals/Models/Animal.h"
+
+1559851825 source:d:\uni\zoo\src\animals\models\animal.cpp
+	"Animals/Models/Animal.h"
+	<algorithm>
+	<windows.h>
+
+1558216441 source:d:\uni\zoo\src\animals\models\bird.cpp
+	"Animals/Models/Bird.h"
+
+1558216448 source:d:\uni\zoo\src\animals\models\fish.cpp
+	"Animals/Models/Fish.h"
+
+1558012244 source:d:\uni\zoo\src\animals\models\herbivore.cpp
+	"Animals/Models/Herbivore.h"
+
+1558216457 source:d:\uni\zoo\src\animals\models\mammal.cpp
+	"Animals/Models/Mammal.h"
+
+1558012257 source:d:\uni\zoo\src\animals\models\predator.cpp
+	"Animals/Models/Predator.h"
+
+1559851474 d:\uni\zoo\include\animals\models\predator.h
+
+1558216460 source:d:\uni\zoo\src\animals\models\reptile.cpp
+	"Animals/Models/Reptile.h"
+
+1558216464 source:d:\uni\zoo\src\animals\predators\predatorbird.cpp
+	"Animals/Predators/PredatorBird.h"
+
+1559851364 d:\uni\zoo\include\animals\predators\predatorbird.h
+	"Animals/Models/Bird.h"
+	"Animals/Models/Predator.h"
+
+1558213419 source:d:\uni\zoo\src\cages\aquarium.cpp
+	"Aquarium.h"
+
+1558386323 d:\uni\zoo\include\cages\aquarium.h
+	"Cages/Cage.h"
+
+1559852275 d:\uni\zoo\include\cages\cage.h
+	"Animals/Models/Animal.h"
+	<typeinfo>
+	<cstring>
+
+1558216469 source:d:\uni\zoo\src\animals\predators\predatorfish.cpp
+	"Animals/Predators/PredatorFish.h"
+
+1559851356 d:\uni\zoo\include\animals\predators\predatorfish.h
+	"Animals/Models/Fish.h"
+	"Animals/Models/Predator.h"
+
+1559852428 source:d:\uni\zoo\src\cages\cage.cpp
+	"Cage.h"
+
+1558213409 source:d:\uni\zoo\src\cages\jungle.cpp
+	"Jungle.h"
+
+1558386379 d:\uni\zoo\include\cages\jungle.h
+	"Cages/Cage.h"
+
+1558216472 source:d:\uni\zoo\src\animals\predators\predatormammal.cpp
+	"Animals/Predators/PredatorMammal.h"
+
+1558385629 d:\uni\zoo\include\animals\predators\predatormammal.h
+	"Animals/Models/Mammal.h"
+	"Animals/Models/Predator.h"
+
+1558213406 source:d:\uni\zoo\src\cages\polarzone.cpp
+	"PolarZone.h"
+
+1558386382 d:\uni\zoo\include\cages\polarzone.h
+	"Cages/Cage.h"
+
+1558213403 source:d:\uni\zoo\src\cages\savanna.cpp
+	"Savanna.h"
+
+1558386385 d:\uni\zoo\include\cages\savanna.h
+	"Cages/Cage.h"
+
+1558213398 source:d:\uni\zoo\src\cages\terrarium.cpp
+	"Terrarium.h"
+
+1558386389 d:\uni\zoo\include\cages\terrarium.h
+	"Cages/Cage.h"
+
+1558216479 source:d:\uni\zoo\src\animals\predators\predatorreptile.cpp
+	"Animals/Predators/PredatorReptile.h"
+
+1558385599 d:\uni\zoo\include\animals\predators\predatorreptile.h
+	"Animals/Models/Reptile.h"
+	"Animals/Models/Predator.h"
+
+1558208450 source:d:\uni\zoo\src\cages\forest.cpp
+	"Cages/Forest.h"
+
+1558386375 d:\uni\zoo\include\cages\forest.h
+	"Cages/Cage.h"
+	<iostream>
+
+1558012623 source:d:\uni\zoo\src\food\food.cpp
+	"Food.h"
+
+1558386545 d:\uni\zoo\include\food\food.h
+
+1558012715 source:d:\uni\zoo\src\food\meat.cpp
+	"Meat.h"
+
+1558386508 d:\uni\zoo\include\food\meat.h
+	"Food.h"
+
+1558012771 source:d:\uni\zoo\src\food\fishfood.cpp
+	"FishFood.h"
+
+1558386500 d:\uni\zoo\include\food\fishfood.h
+	"Food.h"
+
+1558012869 source:d:\uni\zoo\src\food\plantfood.cpp
+	"PlantFood.h"
+
+1558386515 d:\uni\zoo\include\food\plantfood.h
+	"Food.h"
+
+1558387700 source:d:\uni\zoo\src\utils\commanddispatcher.cpp
+	"Utils/CommandDispatcher.h"
+
+1558387384 d:\uni\zoo\include\utils\commanddispatcher.h
+	"Zoo.h"
+	"fstream"
+	"AnimalFactory.h"
+	"CageFactory.h"
+	"Cage.h"
+
+1558388953 d:\uni\zoo\include\utils\validator.h
+	<iostream>
+	<windows.h>
+
+1558310515 source:d:\uni\zoo\src\utils\validator.cpp
+	"Validator.h"
+
+1558216541 source:d:\uni\zoo\src\utils\animalfactory.cpp
+	"Utils/AnimalFactory.h"
+
+1558387811 d:\uni\zoo\include\utils\animalfactory.h
+	"Animals/Models/Animal.h"
+	"Animals/Herbivores/HerbivoreBird.h"
+	"Animals/Herbivores/HerbivoreFish.h"
+	"Animals/Herbivores/HerbivoreMammal.h"
+	"Animals/Herbivores/HerbivoreReptile.h"
+	"Animals/Predators/PredatorBird.h"
+	"Animals/Predators/PredatorFish.h"
+	"Animals/Predators/PredatorMammal.h"
+	"Animals/Predators/PredatorReptile.h"
+	"Food/Food.h"
+	"Food/FishFood.h"
+	"Food/Meat.h"
+	"Food/PlantFood.h"
+
+1558011976 d:\uni\zoo\include\animals
+
+1558208924 source:d:\uni\zoo\src\utils\cagefactory.cpp
+	"CageFactory.h"
+
+1558387819 d:\uni\zoo\include\utils\cagefactory.h
+	<cstring>
+	"Cage.h"
+	"Aquarium.h"
+	"Forest.h"
+	"Jungle.h"
+	"PolarZone.h"
+	"Savanna.h"
+	"Terrarium.h"
+
+1558308875 source:d:\uni\zoo\src\warehouse.cpp
+	"Warehouse.h"
+
+1558389290 d:\uni\zoo\include\warehouse.h
+
+1551848364 c:\users\alex\downloads\opencv\build\include\opencv2\core.hpp
+	"opencv2/core/cvdef.h"
+	"opencv2/core/version.hpp"
+	"opencv2/core/base.hpp"
+	"opencv2/core/cvstd.hpp"
+	"opencv2/core/traits.hpp"
+	"opencv2/core/matx.hpp"
+	"opencv2/core/types.hpp"
+	"opencv2/core/mat.hpp"
+	"opencv2/core/persistence.hpp"
+	"opencv2/core/operations.hpp"
+	"opencv2/core/cvstd.inl.hpp"
+	"opencv2/core/utility.hpp"
+	"opencv2/core/optim.hpp"
+	"opencv2/core/ovx.hpp"
+
+1553316832 c:\users\alex\downloads\opencv\build\include\opencv2\core\cvdef.h
+	"cvconfig.h"
+	<limits.h>
+	"opencv2/core/hal/interface.h"
+	"cv_cpu_dispatch.h"
+	<intrin.h>
+	<array>
+	<cstdint>
+	<stdint.h>
+	<stdint.h>
+	"opencv2/core/fast_math.hpp"
+
+1537365027 c:\users\alex\downloads\opencv\build\include\opencv2\core\hal\interface.h
+	<cstddef>
+	<stddef.h>
+	<stdbool.h>
+	<cstdint>
+	<stdint.h>
+
+1552453498 c:\users\alex\downloads\opencv\build\include\opencv2\core\cv_cpu_dispatch.h
+	"cv_cpu_config.h"
+	"cv_cpu_helper.h"
+	<emmintrin.h>
+	<pmmintrin.h>
+	<tmmintrin.h>
+	<smmintrin.h>
+	<nmmintrin.h>
+	<nmmintrin.h>
+	<popcntintrin.h>
+	<immintrin.h>
+	<arm_neon.h>
+	<immintrin.h>
+	<immintrin.h>
+	<immintrin.h>
+	<immintrin.h>
+	<Intrin.h>
+	<arm_neon.h>
+	<arm_neon.h>
+	<arm_neon.h>
+	<altivec.h>
+	<emmintrin.h>
+	<Intrin.h>
+	<arm_neon.h>
+	<arm_neon.h>
+	<altivec.h>
+
+1542862916 c:\users\alex\downloads\opencv\build\include\opencv2\core\cv_cpu_helper.h
+
+1536634986 c:\users\alex\downloads\opencv\build\include\opencv2\core\fast_math.hpp
+	"opencv2/core/cvdef.h"
+	<emmintrin.h>
+	<cmath>
+	<fastmath.h>
+	<math.h>
+
+1554711411 c:\users\alex\downloads\opencv\build\include\opencv2\core\version.hpp
+
+1541651026 c:\users\alex\downloads\opencv\build\include\opencv2\core\base.hpp
+	"opencv2/opencv_modules.hpp"
+	<climits>
+	<algorithm>
+	"opencv2/core/cvdef.h"
+	"opencv2/core/cvstd.hpp"
+	"opencv2/core/neon_utils.hpp"
+	"opencv2/core/vsx_utils.hpp"
+	"opencv2/core/check.hpp"
+
+1554711493 c:\users\alex\downloads\opencv\build\include\opencv2\opencv_modules.hpp
+
+1549947974 c:\users\alex\downloads\opencv\build\include\opencv2\core\cvstd.hpp
+	"opencv2/core/cvdef.h"
+	<cstddef>
+	<cstring>
+	<cctype>
+	<string>
+	<algorithm>
+	<utility>
+	<cstdlib>
+	<cmath>
+	"cvstd_wrapper.hpp"
+
+1552021022 c:\users\alex\downloads\opencv\build\include\opencv2\core\cvstd_wrapper.hpp
+	"opencv2/core/cvdef.h"
+	<string>
+	<memory>
+	<type_traits>
+
+1523415977 c:\users\alex\downloads\opencv\build\include\opencv2\core\neon_utils.hpp
+	"opencv2/core/cvdef.h"
+
+1553316832 c:\users\alex\downloads\opencv\build\include\opencv2\core\vsx_utils.hpp
+	"opencv2/core/cvdef.h"
+	<assert.h>
+
+1538367574 c:\users\alex\downloads\opencv\build\include\opencv2\core\check.hpp
+	<opencv2/core/base.hpp>
+
+1536634986 c:\users\alex\downloads\opencv\build\include\opencv2\core\traits.hpp
+	"opencv2/core/cvdef.h"
+
+1553922345 c:\users\alex\downloads\opencv\build\include\opencv2\core\matx.hpp
+	"opencv2/core/cvdef.h"
+	"opencv2/core/base.hpp"
+	"opencv2/core/traits.hpp"
+	"opencv2/core/saturate.hpp"
+	<initializer_list>
+
+1536634986 c:\users\alex\downloads\opencv\build\include\opencv2\core\saturate.hpp
+	"opencv2/core/cvdef.h"
+	"opencv2/core/fast_math.hpp"
+
+1542862916 c:\users\alex\downloads\opencv\build\include\opencv2\core\types.hpp
+	<climits>
+	<cfloat>
+	<vector>
+	<limits>
+	"opencv2/core/cvdef.h"
+	"opencv2/core/cvstd.hpp"
+	"opencv2/core/matx.hpp"
+
+1551934411 c:\users\alex\downloads\opencv\build\include\opencv2\core\mat.hpp
+	"opencv2/core/matx.hpp"
+	"opencv2/core/types.hpp"
+	"opencv2/core/bufferpool.hpp"
+	<type_traits>
+	"opencv2/core/mat.inl.hpp"
+
+1523415977 c:\users\alex\downloads\opencv\build\include\opencv2\core\bufferpool.hpp
+
+1537587396 c:\users\alex\downloads\opencv\build\include\opencv2\core\mat.inl.hpp
+
+1549084248 c:\users\alex\downloads\opencv\build\include\opencv2\core\persistence.hpp
+	"opencv2/core/types.hpp"
+	"opencv2/core/mat.hpp"
+	"opencv2/opencv.hpp"
+	<time.h>
+
+1523415977 c:\users\alex\downloads\opencv\build\include\opencv2\opencv.hpp
+	"opencv2/opencv_modules.hpp"
+	"opencv2/core.hpp"
+	"opencv2/calib3d.hpp"
+	"opencv2/features2d.hpp"
+	"opencv2/dnn.hpp"
+	"opencv2/flann.hpp"
+	"opencv2/highgui.hpp"
+	"opencv2/imgcodecs.hpp"
+	"opencv2/imgproc.hpp"
+	"opencv2/ml.hpp"
+	"opencv2/objdetect.hpp"
+	"opencv2/photo.hpp"
+	"opencv2/shape.hpp"
+	"opencv2/stitching.hpp"
+	"opencv2/superres.hpp"
+	"opencv2/video.hpp"
+	"opencv2/videoio.hpp"
+	"opencv2/videostab.hpp"
+	"opencv2/viz.hpp"
+	"opencv2/cudaarithm.hpp"
+	"opencv2/cudabgsegm.hpp"
+	"opencv2/cudacodec.hpp"
+	"opencv2/cudafeatures2d.hpp"
+	"opencv2/cudafilters.hpp"
+	"opencv2/cudaimgproc.hpp"
+	"opencv2/cudaobjdetect.hpp"
+	"opencv2/cudaoptflow.hpp"
+	"opencv2/cudastereo.hpp"
+	"opencv2/cudawarping.hpp"
+
+1553316832 c:\users\alex\downloads\opencv\build\include\opencv2\calib3d.hpp
+	"opencv2/core.hpp"
+	"opencv2/features2d.hpp"
+	"opencv2/core/affine.hpp"
+
+1544677745 c:\users\alex\downloads\opencv\build\include\opencv2\features2d.hpp
+	"opencv2/opencv_modules.hpp"
+	"opencv2/core.hpp"
+	"opencv2/flann/miniflann.hpp"
+
+1537365027 c:\users\alex\downloads\opencv\build\include\opencv2\flann\miniflann.hpp
+	"opencv2/core.hpp"
+	"opencv2/flann/defines.h"
+
+1523415977 c:\users\alex\downloads\opencv\build\include\opencv2\flann\defines.h
+	"config.h"
+
+1523415977 c:\users\alex\downloads\opencv\build\include\opencv2\flann\config.h
+
+1524538528 c:\users\alex\downloads\opencv\build\include\opencv2\core\affine.hpp
+	<opencv2/core.hpp>
+
+1534818531 c:\users\alex\downloads\opencv\build\include\opencv2\dnn.hpp
+	<opencv2/dnn/dnn.hpp>
+
+1553922345 c:\users\alex\downloads\opencv\build\include\opencv2\dnn\dnn.hpp
+	<vector>
+	<opencv2/core.hpp>
+	"../dnn/version.hpp"
+	<opencv2/dnn/dict.hpp>
+	<opencv2/dnn/layer.hpp>
+	<opencv2/dnn/dnn.inl.hpp>
+	<opencv2/dnn/utils/inference_engine.hpp>
+
+1548306363 c:\users\alex\downloads\opencv\build\include\opencv2\dnn\version.hpp
+
+1542483555 c:\users\alex\downloads\opencv\build\include\opencv2\dnn\dict.hpp
+	<opencv2/core.hpp>
+	<map>
+	<ostream>
+	<opencv2/dnn/dnn.hpp>
+
+1536114673 c:\users\alex\downloads\opencv\build\include\opencv2\dnn\layer.hpp
+	<opencv2/dnn.hpp>
+
+1537587396 c:\users\alex\downloads\opencv\build\include\opencv2\dnn\dnn.inl.hpp
+	<opencv2/dnn.hpp>
+
+1553922345 c:\users\alex\downloads\opencv\build\include\opencv2\dnn\utils\inference_engine.hpp
+	"../dnn.hpp"
+
+1540089623 c:\users\alex\downloads\opencv\build\include\opencv2\flann.hpp
+	"opencv2/core.hpp"
+	"opencv2/flann/miniflann.hpp"
+	"opencv2/flann/flann_base.hpp"
+
+1523415977 c:\users\alex\downloads\opencv\build\include\opencv2\flann\flann_base.hpp
+	<vector>
+	<cassert>
+	<cstdio>
+	"general.h"
+	"matrix.h"
+	"params.h"
+	"saving.h"
+	"all_indices.h"
+
+1523415977 c:\users\alex\downloads\opencv\build\include\opencv2\flann\general.h
+	"opencv2/core.hpp"
+
+1523415977 c:\users\alex\downloads\opencv\build\include\opencv2\flann\matrix.h
+	<stdio.h>
+	"general.h"
+
+1523415977 c:\users\alex\downloads\opencv\build\include\opencv2\flann\params.h
+	"any.h"
+	"general.h"
+	<iostream>
+	<map>
+
+1523415977 c:\users\alex\downloads\opencv\build\include\opencv2\flann\any.h
+	"defines.h"
+	<stdexcept>
+	<ostream>
+	<typeinfo>
+
+1523415977 c:\users\alex\downloads\opencv\build\include\opencv2\flann\saving.h
+	<cstring>
+	<vector>
+	"general.h"
+	"nn_index.h"
+
+1523415977 c:\users\alex\downloads\opencv\build\include\opencv2\flann\nn_index.h
+	"general.h"
+	"matrix.h"
+	"result_set.h"
+	"params.h"
+
+1523415977 c:\users\alex\downloads\opencv\build\include\opencv2\flann\result_set.h
+	<algorithm>
+	<cstring>
+	<iostream>
+	<limits>
+	<set>
+	<vector>
+
+1523415977 c:\users\alex\downloads\opencv\build\include\opencv2\flann\all_indices.h
+	"general.h"
+	"nn_index.h"
+	"kdtree_index.h"
+	"kdtree_single_index.h"
+	"kmeans_index.h"
+	"composite_index.h"
+	"linear_index.h"
+	"hierarchical_clustering_index.h"
+	"lsh_index.h"
+	"autotuned_index.h"
+
+1523415977 c:\users\alex\downloads\opencv\build\include\opencv2\flann\kdtree_index.h
+	<algorithm>
+	<map>
+	<cassert>
+	<cstring>
+	"general.h"
+	"nn_index.h"
+	"dynamic_bitset.h"
+	"matrix.h"
+	"result_set.h"
+	"heap.h"
+	"allocator.h"
+	"random.h"
+	"saving.h"
+
+1523415977 c:\users\alex\downloads\opencv\build\include\opencv2\flann\dynamic_bitset.h
+	<boost/dynamic_bitset.hpp>
+	<limits.h>
+	"dist.h"
+
+1550726294 c:\users\alex\downloads\opencv\build\include\opencv2\flann\dist.h
+	<cmath>
+	<cstdlib>
+	<string.h>
+	<stdint.h>
+	"defines.h"
+	<Intrin.h>
+	"arm_neon.h"
+
+1523415977 c:\users\alex\downloads\opencv\build\include\opencv2\flann\heap.h
+	<algorithm>
+	<vector>
+
+1523415977 c:\users\alex\downloads\opencv\build\include\opencv2\flann\allocator.h
+	<stdlib.h>
+	<stdio.h>
+
+1523415977 c:\users\alex\downloads\opencv\build\include\opencv2\flann\random.h
+	<algorithm>
+	<cstdlib>
+	<vector>
+	"general.h"
+
+1523415977 c:\users\alex\downloads\opencv\build\include\opencv2\flann\kdtree_single_index.h
+	<algorithm>
+	<map>
+	<cassert>
+	<cstring>
+	"general.h"
+	"nn_index.h"
+	"matrix.h"
+	"result_set.h"
+	"heap.h"
+	"allocator.h"
+	"random.h"
+	"saving.h"
+
+1553316832 c:\users\alex\downloads\opencv\build\include\opencv2\flann\kmeans_index.h
+	<algorithm>
+	<map>
+	<cassert>
+	<limits>
+	<cmath>
+	"general.h"
+	"nn_index.h"
+	"dist.h"
+	"matrix.h"
+	"result_set.h"
+	"heap.h"
+	"allocator.h"
+	"random.h"
+	"saving.h"
+	"logger.h"
+
+1523415977 c:\users\alex\downloads\opencv\build\include\opencv2\flann\logger.h
+	<stdio.h>
+	<stdarg.h>
+	"defines.h"
+
+1523415977 c:\users\alex\downloads\opencv\build\include\opencv2\flann\composite_index.h
+	"general.h"
+	"nn_index.h"
+	"kdtree_index.h"
+	"kmeans_index.h"
+
+1523415977 c:\users\alex\downloads\opencv\build\include\opencv2\flann\linear_index.h
+	"general.h"
+	"nn_index.h"
+
+1523415977 c:\users\alex\downloads\opencv\build\include\opencv2\flann\hierarchical_clustering_index.h
+	<algorithm>
+	<map>
+	<cassert>
+	<limits>
+	<cmath>
+	"general.h"
+	"nn_index.h"
+	"dist.h"
+	"matrix.h"
+	"result_set.h"
+	"heap.h"
+	"allocator.h"
+	"random.h"
+	"saving.h"
+
+1523415977 c:\users\alex\downloads\opencv\build\include\opencv2\flann\lsh_index.h
+	<algorithm>
+	<cassert>
+	<cstring>
+	<map>
+	<vector>
+	"general.h"
+	"nn_index.h"
+	"matrix.h"
+	"result_set.h"
+	"heap.h"
+	"lsh_table.h"
+	"allocator.h"
+	"random.h"
+	"saving.h"
+
+1536634986 c:\users\alex\downloads\opencv\build\include\opencv2\flann\lsh_table.h
+	<algorithm>
+	<iostream>
+	<iomanip>
+	<limits.h>
+	<unordered_map>
+	<map>
+	<math.h>
+	<stddef.h>
+	"dynamic_bitset.h"
+	"matrix.h"
+
+1523415977 c:\users\alex\downloads\opencv\build\include\opencv2\flann\autotuned_index.h
+	<sstream>
+	"general.h"
+	"nn_index.h"
+	"ground_truth.h"
+	"index_testing.h"
+	"sampling.h"
+	"kdtree_index.h"
+	"kdtree_single_index.h"
+	"kmeans_index.h"
+	"composite_index.h"
+	"linear_index.h"
+	"logger.h"
+
+1523415977 c:\users\alex\downloads\opencv\build\include\opencv2\flann\ground_truth.h
+	"dist.h"
+	"matrix.h"
+
+1523415977 c:\users\alex\downloads\opencv\build\include\opencv2\flann\index_testing.h
+	<cstring>
+	<cassert>
+	<cmath>
+	"matrix.h"
+	"nn_index.h"
+	"result_set.h"
+	"logger.h"
+	"timer.h"
+
+1523415977 c:\users\alex\downloads\opencv\build\include\opencv2\flann\timer.h
+	<time.h>
+	"opencv2/core.hpp"
+	"opencv2/core/utility.hpp"
+
+1542483555 c:\users\alex\downloads\opencv\build\include\opencv2\core\utility.hpp
+	"opencv2/core.hpp"
+	<ostream>
+	<functional>
+	<mutex>
+
+1523415977 c:\users\alex\downloads\opencv\build\include\opencv2\flann\sampling.h
+	"matrix.h"
+	"random.h"
+
+1541567336 c:\users\alex\downloads\opencv\build\include\opencv2\highgui.hpp
+	"opencv2/core.hpp"
+	"opencv2/imgcodecs.hpp"
+	"opencv2/videoio.hpp"
+
+1552453498 c:\users\alex\downloads\opencv\build\include\opencv2\imgcodecs.hpp
+	"opencv2/core.hpp"
+
+1545887993 c:\users\alex\downloads\opencv\build\include\opencv2\videoio.hpp
+	"opencv2/core.hpp"
+
+1552541511 c:\users\alex\downloads\opencv\build\include\opencv2\imgproc.hpp
+	"opencv2/core.hpp"
+
+1549947974 c:\users\alex\downloads\opencv\build\include\opencv2\ml.hpp
+	"opencv2/core.hpp"
+	<float.h>
+	<map>
+	<iostream>
+	<opencv2/ml/ml.inl.hpp>
+
+1523415977 c:\users\alex\downloads\opencv\build\include\opencv2\ml\ml.inl.hpp
+
+1541911095 c:\users\alex\downloads\opencv\build\include\opencv2\objdetect.hpp
+	"opencv2/core.hpp"
+	"opencv2/objdetect/detection_based_tracker.hpp"
+
+1523415977 c:\users\alex\downloads\opencv\build\include\opencv2\objdetect\detection_based_tracker.hpp
+	<opencv2/core.hpp>
+	<vector>
+
+1552626150 c:\users\alex\downloads\opencv\build\include\opencv2\photo.hpp
+	"opencv2/core.hpp"
+	"opencv2/imgproc.hpp"
+
+1551590271 c:\users\alex\downloads\opencv\build\include\opencv2\stitching.hpp
+	"opencv2/core.hpp"
+	"opencv2/features2d.hpp"
+	"opencv2/stitching/warpers.hpp"
+	"opencv2/stitching/detail/matchers.hpp"
+	"opencv2/stitching/detail/motion_estimators.hpp"
+	"opencv2/stitching/detail/exposure_compensate.hpp"
+	"opencv2/stitching/detail/seam_finders.hpp"
+	"opencv2/stitching/detail/blenders.hpp"
+	"opencv2/stitching/detail/camera.hpp"
+
+1545195512 c:\users\alex\downloads\opencv\build\include\opencv2\stitching\warpers.hpp
+	"opencv2/stitching/detail/warpers.hpp"
+	<string>
+
+1545195512 c:\users\alex\downloads\opencv\build\include\opencv2\stitching\detail\warpers.hpp
+	"opencv2/core.hpp"
+	"opencv2/core/cuda.hpp"
+	"opencv2/imgproc.hpp"
+	"opencv2/opencv_modules.hpp"
+	"warpers_inl.hpp"
+
+1538189464 c:\users\alex\downloads\opencv\build\include\opencv2\core\cuda.hpp
+	"opencv2/core.hpp"
+	"opencv2/core/cuda_types.hpp"
+	<opencv2/opencv.hpp>
+	"opencv2/core/cuda.inl.hpp"
+
+1549688477 c:\users\alex\downloads\opencv\build\include\opencv2\core\cuda_types.hpp
+
+1523415977 c:\users\alex\downloads\opencv\build\include\opencv2\core\cuda.inl.hpp
+	"opencv2/core/cuda.hpp"
+
+1523415977 c:\users\alex\downloads\opencv\build\include\opencv2\stitching\detail\warpers_inl.hpp
+	"opencv2/core.hpp"
+	"warpers.hpp"
+	<limits>
+
+1545195512 c:\users\alex\downloads\opencv\build\include\opencv2\stitching\detail\matchers.hpp
+	"opencv2/core.hpp"
+	"opencv2/features2d.hpp"
+	"opencv2/opencv_modules.hpp"
+
+1547960866 c:\users\alex\downloads\opencv\build\include\opencv2\stitching\detail\motion_estimators.hpp
+	"opencv2/core.hpp"
+	"matchers.hpp"
+	"util.hpp"
+	"camera.hpp"
+
+1545195512 c:\users\alex\downloads\opencv\build\include\opencv2\stitching\detail\util.hpp
+	<list>
+	"opencv2/core.hpp"
+	"util_inl.hpp"
+
+1523415977 c:\users\alex\downloads\opencv\build\include\opencv2\stitching\detail\util_inl.hpp
+	<queue>
+	"opencv2/core.hpp"
+	"util.hpp"
+
+1545195512 c:\users\alex\downloads\opencv\build\include\opencv2\stitching\detail\camera.hpp
+	"opencv2/core.hpp"
+
+1549947974 c:\users\alex\downloads\opencv\build\include\opencv2\stitching\detail\exposure_compensate.hpp
+	"opencv2/core.hpp"
+
+1545195512 c:\users\alex\downloads\opencv\build\include\opencv2\stitching\detail\seam_finders.hpp
+	<set>
+	"opencv2/core.hpp"
+	"opencv2/opencv_modules.hpp"
+
+1547960866 c:\users\alex\downloads\opencv\build\include\opencv2\stitching\detail\blenders.hpp
+	"opencv2/core.hpp"
+	"opencv2/core/cuda.hpp"
+
+1523415977 c:\users\alex\downloads\opencv\build\include\opencv2\video.hpp
+	"opencv2/video/tracking.hpp"
+	"opencv2/video/background_segm.hpp"
+
+1551247269 c:\users\alex\downloads\opencv\build\include\opencv2\video\tracking.hpp
+	"opencv2/core.hpp"
+	"opencv2/imgproc.hpp"
+
+1523415977 c:\users\alex\downloads\opencv\build\include\opencv2\video\background_segm.hpp
+	"opencv2/core.hpp"
+
+1546060065 c:\users\alex\downloads\opencv\build\include\opencv2\core\operations.hpp
+	<cstdio>
+
+1541129685 c:\users\alex\downloads\opencv\build\include\opencv2\core\cvstd.inl.hpp
+	<complex>
+	<ostream>
+
+1539668808 c:\users\alex\downloads\opencv\build\include\opencv2\core\optim.hpp
+	"opencv2/core.hpp"
+
+1523415977 c:\users\alex\downloads\opencv\build\include\opencv2\core\ovx.hpp
+	"cvdef.h"
+
+1523415977 c:\users\alex\downloads\opencv\build\include\opencv2\core\core.hpp
+	"opencv2/core.hpp"
+
+1523415977 c:\users\alex\downloads\opencv\build\include\opencv2\highgui\highgui.hpp
+	"opencv2/highgui.hpp"
+

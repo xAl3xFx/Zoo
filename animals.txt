@@ -1,0 +1,22 @@
+1. Brown Bear
+2. Wolf
+3. Wild Goat
+4. Owl
+5. Eagle
+6. Lion
+7. Tiger
+8. Lynx
+9. Lemur
+10. Parrot
+11. Giraffe
+12. Elephant
+13. Zebra
+14. Polar Bear
+15. Penguin
+16. Seal
+17. Dolphin
+18. Shark
+19. Clown Fish
+20. Python
+21. Monitor Lizard
+22. Chameleon

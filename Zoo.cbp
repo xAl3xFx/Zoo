@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Zoo" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Zoo" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-std=c++11" />
+					<Add option="-g" />
+					<Add directory="include" />
+					<Add directory="include/Cages" />
+					<Add directory="include/Utils" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Zoo" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+					<Add directory="include/Cages" />
+					<Add directory="include/Utils" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="include/Animals/Herbivores/HerbivoreBird.h" />
+		<Unit filename="include/Animals/Herbivores/HerbivoreFish.h" />
+		<Unit filename="include/Animals/Herbivores/HerbivoreMammal.h" />
+		<Unit filename="include/Animals/Herbivores/HerbivoreReptile.h" />
+		<Unit filename="include/Animals/Models/Animal.h" />
+		<Unit filename="include/Animals/Models/Bird.h" />
+		<Unit filename="include/Animals/Models/Fish.h" />
+		<Unit filename="include/Animals/Models/Herbivore.h" />
+		<Unit filename="include/Animals/Models/Mammal.h" />
+		<Unit filename="include/Animals/Models/Predator.h" />
+		<Unit filename="include/Animals/Models/Reptile.h" />
+		<Unit filename="include/Animals/Predators/PredatorBird.h" />
+		<Unit filename="include/Animals/Predators/PredatorFish.h" />
+		<Unit filename="include/Animals/Predators/PredatorMammal.h" />
+		<Unit filename="include/Animals/Predators/PredatorReptile.h" />
+		<Unit filename="include/Cages/Aquarium.h" />
+		<Unit filename="include/Cages/Cage.h" />
+		<Unit filename="include/Cages/Forest.h" />
+		<Unit filename="include/Cages/Jungle.h" />
+		<Unit filename="include/Cages/PolarZone.h" />
+		<Unit filename="include/Cages/Savanna.h" />
+		<Unit filename="include/Cages/Terrarium.h" />
+		<Unit filename="include/Food/FishFood.h" />
+		<Unit filename="include/Food/Food.h" />
+		<Unit filename="include/Food/Meat.h" />
+		<Unit filename="include/Food/PlantFood.h" />
+		<Unit filename="include/Utils/AnimalFactory.h" />
+		<Unit filename="include/Utils/CageFactory.h" />
+		<Unit filename="include/Utils/CommandDispatcher.h" />
+		<Unit filename="include/Utils/Validator.h" />
+		<Unit filename="include/Warehouse.h" />
+		<Unit filename="include/Zoo.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/Animals/Herbivores/HerbivoreBird.cpp" />
+		<Unit filename="src/Animals/Herbivores/HerbivoreFish.cpp" />
+		<Unit filename="src/Animals/Herbivores/HerbivoreMammal.cpp" />
+		<Unit filename="src/Animals/Herbivores/HerbivoreReptile.cpp" />
+		<Unit filename="src/Animals/Models/Animal.cpp" />
+		<Unit filename="src/Animals/Models/Bird.cpp" />
+		<Unit filename="src/Animals/Models/Fish.cpp" />
+		<Unit filename="src/Animals/Models/Herbivore.cpp" />
+		<Unit filename="src/Animals/Models/Mammal.cpp" />
+		<Unit filename="src/Animals/Models/Predator.cpp" />
+		<Unit filename="src/Animals/Models/Reptile.cpp" />
+		<Unit filename="src/Animals/Predators/PredatorBird.cpp" />
+		<Unit filename="src/Animals/Predators/PredatorFish.cpp" />
+		<Unit filename="src/Animals/Predators/PredatorMammal.cpp" />
+		<Unit filename="src/Animals/Predators/PredatorReptile.cpp" />
+		<Unit filename="src/Cages/Aquarium.cpp" />
+		<Unit filename="src/Cages/Cage.cpp" />
+		<Unit filename="src/Cages/Forest.cpp" />
+		<Unit filename="src/Cages/Jungle.cpp" />
+		<Unit filename="src/Cages/PolarZone.cpp" />
+		<Unit filename="src/Cages/Savanna.cpp" />
+		<Unit filename="src/Cages/Terrarium.cpp" />
+		<Unit filename="src/Food/FishFood.cpp" />
+		<Unit filename="src/Food/Food.cpp" />
+		<Unit filename="src/Food/Meat.cpp" />
+		<Unit filename="src/Food/PlantFood.cpp" />
+		<Unit filename="src/Utils/AnimalFactory.cpp" />
+		<Unit filename="src/Utils/CageFactory.cpp" />
+		<Unit filename="src/Utils/CommandDispatcher.cpp" />
+		<Unit filename="src/Utils/Validator.cpp" />
+		<Unit filename="src/Warehouse.cpp" />
+		<Unit filename="src/Zoo.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
